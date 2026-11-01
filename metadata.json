@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS AI Assistant",
+  "description": "Futuristic intelligent personal AI assistant powered by Gemini with robotic visualizer, voice interface, Screen Mode command center, Brain Mode, and Device Link.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
